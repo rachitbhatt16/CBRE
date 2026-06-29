@@ -109,6 +109,8 @@ Industry: Commercial Real Estate (CRE)
 Company: CBRE Group, Inc.
 Domain: Market Intelligence, Portfolio Analytics
 ---
+Dashboard link : https://public.tableau.com/views/cbre_dashboard/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+---
 👤 Author
 Rachit Bhatt  
 MBA — Finance & Business Analytics | Delhi Technological University (2025)  
