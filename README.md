@@ -116,4 +116,4 @@ Data Analyst | rachitbhatt.lovable.app
 GitHub: github.com/rachitbhatt16  
 LinkedIn: linkedin.com/in/rachitbhatt0016
 ---
-This project was built as part of a structured interview process. All data is provided by CBRE for assessment purposes.
+
